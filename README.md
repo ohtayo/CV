@@ -1,2 +1,2 @@
-# URL
-* https://ohtayo.github.io/CV/
+My curriculum vitae  
+URL: https://ohtayo.github.io/CV/
