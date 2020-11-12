@@ -1,8 +1,8 @@
 ---
-layout: cv
+layout: default
 title: Yoshihiro Ohta's CV
 ---
-# Yoshihiro Ohta
+# Yoshihiro Ohta 太田恵大
 Researcher, Engineer
 
 <div id="webaddress">
@@ -17,52 +17,66 @@ Researcher, Engineer
 Yoshihiro Ohta received his B.E., M.E. and Ph.D. from the University of Electro-Communications, Japan, in 2010, 2012 and 2020 respectively. He has been a researcher at Mitsubishi Electric Corporation, Japan since 2012. He was a system engineer at Mitsubishi Electric Building Techno-Service Co., Ltd., Tokyo, Japan in 2017-2019. His research interests include evolutionary multi-objective optimization, air-conditioning system, control engineering and building automation system.
 
 ## Research interests
-* Evolutionary multi-objective optimization and its application
-* Air-conditioning system
-* Control engineering
-* Building automation system
+* Evolutionary multi-objective optimization and its application  
+  進化型多目的最適化と主に空調システムを対象とした実問題応用
+* Thermal comfort evaluation of air-conditioning system
+  空調システムの快適性評価
+* Simulation and control of air conditioning system operation
+  空調システムのシミュレーションおよび制御
+
+### Past Research Themes and Development Projects
+* Robust digital control for switching power converter  
+  DC-DCコンバータやPFCコンバータなどのスイッチング電源のロバストディジタル制御
+* Diversity antenna system using parasitic elements  
+  無給電素子を用いた指向性切り替えによるダイバーシティアンテナシステムの開発
+* Measurement system of sleep depth in the unrestrained condition  
+  無拘束状態における睡眠深度測定システムの開発
 
 
-### Past Research Themes
-* Robust digital control for switching power converter
-* Diversity antenna system using parasitic elements
-* Depth of sleep measurement in unrestrained condition
-
-
-## Education
-
-`2003-2008`
-__A.E., Kisarazu National College of Technology__  
-Graduation thesis: 無給電素子を用いた指向性切替アンテナシステムの研究
-
-`2008-2010`
-__B.E., Dept. of Electronics, Faculty of Engineering, The University of Electro-Communications__  
-Bachelor's thesis: DC-DCコンバータのSHマイコンによる高度ディジタル制御
-
-`2010-2012`
-__M.E., Dept. of Mechanical Engineering and Intelligent Systems, Graduate School of Informatics and Engineering, The University of Electro-Communications__  
-Master's thesis: 力率改善回路のロバストディジタル制御に関する研究
+## Education 学歴
 
 `2017-2020`
-__Ph.D., Dept. of Informatics, Graduate School of Informatics and Engineering, The University of Electro-Communications__  
-Ph.D. thesis: Evolutionary Multi-objective Optimization of Air-conditioning Schedule in Office Building (Japanese)
+__Ph.D., Graduate School of Informatics and Engineering, The University of Electro-Communications__  
+__博士（工学）, 電気通信大学大学院 情報理工学研究科 情報学専攻__
+Ph.D. thesis: Evolutionary Multi-objective Optimization of Air-conditioning Schedule in Office Building (Japanese)  
+博士論文： オフィスビルにおける空調設定スケジュールの進化型多目的最適化
 
+`2010-2012`
+__Master of Engineering, Graduate School of Informatics and Engineering, The University of Electro-Communications__  
+__修士, 電気通信大学大学院 情報理工学研究科 知能機械工学専攻__
+Master's thesis: A Study on Robust Digital Control for a PFC Boost Converter
+修士論文: 力率改善回路のロバストディジタル制御に関する研究
 
-## Professional experience
+`2008-2010`
+__Bachelor of Engineering, Faculty of Engineering, The University of Electro-Communications__  
+__学士, 電気通信大学 電気通信学部 電子工学科__
+Bachelor's thesis: Advanced Digital Control for a DC-DC Converter using SH Microcontroller
+卒業論文: DC-DCコンバータのSHマイコンによる高度ディジタル制御
 
-`2011.4-2012.3`
-__Embedded System Engineer__ (part-time), Sleep System Laboratory
+`2003-2008`
+__Associate degree, Kisarazu National College of Technology__  
+__準学士, 木更津工業高等専門学校 電子制御工学科__  
+Graduation thesis: A Study on Beam Switching Antenna System with Parasitic Elements
+卒業論文: 無給電素子を用いた指向性切替アンテナシステムの研究
 
-`2012.4-now`
-__Researcher__, Mitsubishi Electric Corporation
+## Work Experience 職歴
 
 `2017.8-2019.7`
 __System Engineer__ (temporary assignment), Mitsubishi Electric Building Techno-Service, Co., Ltd.
+三菱電機ビルテクノサービス株式会社　ファシリティ事業本部　エンジニアリング統括部(出向)
+
+`2012.4-now`
+__Researcher__, Mitsubishi Electric Corporation  
+三菱電機株式会社　情報技術総合研究所　研究員
+
+`2011.4-2012.3`
+__Embedded System Engineer__ (part-time), Sleep System Laboratory
+株式会社スリープシステム研究所　アルバイト
 
 
 ## Publications
 
-### Refereed Journal Articles
+### Refereed Journal Articles　査読付学会誌論文
 
 1. __太田恵大__, 佐藤寛之, "オフィスビルにおける空調スケジュールのシミュレーションに基づく進化型多目的最適化", 進化計算学会論文誌, Vol. 10, No. 2, pp. 22-32, 2020.
 
@@ -77,7 +91,7 @@ __System Engineer__ (temporary assignment), Mitsubishi Electric Building Techno-
 1. __Yoshihiro Ohta__, Kohji Higuchi, "Robust Digital Control for Boost DC-DC Converter", ECTI Transactions on Electrical Engineering, Electronics, and Communications, Vol. 10, No. 1, pp. 60-65, 2012. 
 
 
-### Refereed International Conference Papers
+### Refereed International Conference Papers 査読付国際会議論文
 1. __Yoshihiro Ohta__, Takafumi Sasakawa, Hiroyuki Sato, "Evolutionary Air-Conditioning optimization Using an LSTM-Based Surrogate Evaluator", 2020 IEEE Congress on Evolutionary Computation (CEC), pp. 1-8, 2020.
 
 1. __Yoshihiro Ohta__, Hiroyuki Sato, "Evolutionary Optimization of Air-conditioning Schedule Robust for Temperature Forecast Errors", 2019 IEEE Congress onEvolutionary Computation (CEC), pp. 2482-2489, 2019.
@@ -101,7 +115,7 @@ __System Engineer__ (temporary assignment), Mitsubishi Electric Building Techno-
 1. __Y. Ohta__, K. Higuchi, T. Kajikawa, "Robust Digital Control for Boost DC-DC Converter", 8th International Conference on Electrical Engineering/Electronics, Computer, Telecommunications and Information Technology (ECTI-CON 2011), pp. 525-528, 2011. 
 
 
-### Domestic Conference Papers
+### Domestic Conference Papers 国内学会発表
 
 1. __太田恵大__, 笹川隆史, 佐藤寛之, "LSTMを用いた近似モデルによる空調設定スケジュールの進化型最適化", 進化計算シンポジウム2019講演論文集, pp. 13-20, 2019.
 
@@ -118,13 +132,13 @@ __System Engineer__ (temporary assignment), Mitsubishi Electric Building Techno-
 1. __太田恵大__, 浮穴朋興, 稲田徹, "多目的最適化手法によるビル設備制御", 計測自動制御学会システム・情報部門学術講演会2013(SSI2013)講演論文集, pp. 349-354, 2013. 
 
 
-### Letters
+### Letters レター論文
 1. __Yoshihiro Ohta__, Kohji Higuchi, "Approximate 2-degree-of-freedom digital control for a PFC boost converter", IEICE Electronics Express, Vol. 10, No. 10, pp. 1-8, 2013.
 
 1. __Yoshihiro Ohta__, Kohji Higuchi, "Approximate 2-Degree-Of-Freedom Digital Control for a Boost DC-DC Converter", IEICE Electronics Express, Vol. 9, No. 6, pp. 496-501, 2012.
 
 
-### Patents
+### Patents 特許
 1. 富田智子, 安田浩之, 中島義統, 佐藤健二, 長廣憲幸, 冨澤一生, __太田恵大__, 田村夏美, 飯田隆義, "快適度表示装置", 2018/05/15出願,  (特願2018-93490, WO2019/013014)
 
 1. __太田恵大__, 浮穴朋興, "運転制御装置，空気調和システム，運転制御方法および運転制御プログラム", 2017/07/05出願, 2019/10/25登録 (特願2019-527263, WO2019/008698, 特許第6605181号)
@@ -156,4 +170,4 @@ __System Engineer__ (temporary assignment), Mitsubishi Electric Building Techno-
 
 <!-- ### Footer
 
-Last updated: Nov. 2020 -->
+Last updated: 2020/11/12 -->
