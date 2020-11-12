@@ -19,9 +19,9 @@ Yoshihiro Ohta received his B.E., M.E. and Ph.D. from the University of Electro-
 ## Research interests
 * Evolutionary multi-objective optimization and its application  
   進化型多目的最適化と主に空調システムを対象とした実問題応用
-* Thermal comfort evaluation of air-conditioning system
+* Thermal comfort evaluation of air-conditioning system  
   空調システムの快適性評価
-* Simulation and control of air conditioning system operation
+* Simulation and control of air conditioning system operation  
   空調システムのシミュレーションおよび制御
 
 ### Past Research Themes and Development Projects
@@ -37,32 +37,32 @@ Yoshihiro Ohta received his B.E., M.E. and Ph.D. from the University of Electro-
 
 `2017-2020`
 __Ph.D., Graduate School of Informatics and Engineering, The University of Electro-Communications__  
-__博士（工学）, 電気通信大学大学院 情報理工学研究科 情報学専攻__
+__博士（工学）, 電気通信大学大学院 情報理工学研究科 情報学専攻__  
 Ph.D. thesis: Evolutionary Multi-objective Optimization of Air-conditioning Schedule in Office Building (Japanese)  
 博士論文： オフィスビルにおける空調設定スケジュールの進化型多目的最適化
 
 `2010-2012`
 __Master of Engineering, Graduate School of Informatics and Engineering, The University of Electro-Communications__  
-__修士, 電気通信大学大学院 情報理工学研究科 知能機械工学専攻__
-Master's thesis: A Study on Robust Digital Control for a PFC Boost Converter
+__修士, 電気通信大学大学院 情報理工学研究科 知能機械工学専攻__  
+Master's thesis: A Study on Robust Digital Control for a PFC Boost Converter  
 修士論文: 力率改善回路のロバストディジタル制御に関する研究
 
 `2008-2010`
 __Bachelor of Engineering, Faculty of Engineering, The University of Electro-Communications__  
-__学士, 電気通信大学 電気通信学部 電子工学科__
-Bachelor's thesis: Advanced Digital Control for a DC-DC Converter using SH Microcontroller
+__学士, 電気通信大学 電気通信学部 電子工学科__  
+Bachelor's thesis: Advanced Digital Control for a DC-DC Converter using SH Microcontroller  
 卒業論文: DC-DCコンバータのSHマイコンによる高度ディジタル制御
 
 `2003-2008`
 __Associate degree, Kisarazu National College of Technology__  
 __準学士, 木更津工業高等専門学校 電子制御工学科__  
-Graduation thesis: A Study on Beam Switching Antenna System with Parasitic Elements
+Graduation thesis: A Study on Beam Switching Antenna System with Parasitic Elements  
 卒業論文: 無給電素子を用いた指向性切替アンテナシステムの研究
 
 ## Work Experience 職歴
 
 `2017.8-2019.7`
-__System Engineer__ (temporary assignment), Mitsubishi Electric Building Techno-Service, Co., Ltd.
+__System Engineer__ (temporary assignment), Mitsubishi Electric Building Techno-Service, Co., Ltd.  
 三菱電機ビルテクノサービス株式会社　ファシリティ事業本部　エンジニアリング統括部(出向)
 
 `2012.4-now`
@@ -70,7 +70,7 @@ __Researcher__, Mitsubishi Electric Corporation
 三菱電機株式会社　情報技術総合研究所　研究員
 
 `2011.4-2012.3`
-__Embedded System Engineer__ (part-time), Sleep System Laboratory
+__Embedded System Engineer__ (part-time), Sleep System Laboratory  
 株式会社スリープシステム研究所　アルバイト
 
 
