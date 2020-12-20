@@ -25,7 +25,7 @@ Yoshihiro Ohta received his B.E., M.E. and Ph.D. from the University of Electro-
   空調システムのシミュレーションおよび制御
 
 ### Past Research Themes and Development Projects
-* Robust digital control for switching power converter  
+* Robust digital control for switching power converters  
   DC-DCコンバータやPFCコンバータなどのスイッチング電源のロバストディジタル制御
 * Diversity antenna system using parasitic elements  
   無給電素子を用いた指向性切り替えによるダイバーシティアンテナシステムの開発
@@ -38,8 +38,8 @@ Yoshihiro Ohta received his B.E., M.E. and Ph.D. from the University of Electro-
 `2017-2020`
 __Ph.D., Graduate School of Informatics and Engineering, The University of Electro-Communications__  
 __博士（工学）, 電気通信大学大学院 情報理工学研究科 情報学専攻__  
-Ph.D. thesis: Evolutionary Multi-objective Optimization of Air-conditioning Schedule in Office Building
-博士論文： オフィスビルにおける空調設定スケジュールの進化型多目的最適化
+Ph.D. thesis: Evolutionary Multi-objective Optimization of Air-conditioning Schedule in Office Building  
+博士論文： オフィスビルにおける空調設定スケジュールの進化型多目的最適化 [(DOI)](http://doi.org/10.18952/00009619/)
 
 `2010-2012`
 __Master of Engineering, Graduate School of Informatics and Engineering, The University of Electro-Communications__  
@@ -73,6 +73,14 @@ __Researcher__, Mitsubishi Electric Corporation
 __Embedded System Engineer__ (part-time), Sleep System Laboratory  
 株式会社スリープシステム研究所　アルバイト
 
+## Awards　受賞歴
+`2020.12.20`
+__Best Paper Award of the Japanese Society for Evolutionary Computation 2020__  
+__進化計算学会 2020年度論文賞__ 
+
+`2008.11.23`
+__Award of Department of Information and Communication Engineering and Best Poster Award at the 11th UEC Electronics Contest__  
+__電気通信大学第11回エレクトロニクスコンテスト 情報通信工学科長賞・ポスター展示賞__ 
 
 ## Publications
 
@@ -116,7 +124,10 @@ __Embedded System Engineer__ (part-time), Sleep System Laboratory
 
 
 ### Domestic Conference Papers 国内学会発表
+1. __太田恵大__, 佐藤寛之, "多目的空調設定スケジュール最適化問題における局所的な多峰性に関する考察", 進化計算シンポジウム2020講演論文集, pp. 145-150, 2020. [(学会URL)](http://www.jpnsec.org/symposium202003.html)
+
 1.  __太田恵大__, 佐藤寛之, "多目的進化計算によるオフィスビルの空調設定スケジュールの最適化 -数理モデルからシミュレーションベース，ロバスト，サロゲート最適化への展開-", 第17回進化計算学会研究会講演論文集, pp. 194-204, 2020. [(学会URL)](http://www.jpnsec.org/symposium202001.html)
+
 1. __太田恵大__, 笹川隆史, 佐藤寛之, "LSTMを用いた近似モデルによる空調設定スケジュールの進化型最適化", 進化計算シンポジウム2019講演論文集, pp. 13-20, 2019. [(学会URL)](http://www.jpnsec.org/symposium201903.html)
 
 1. __太田恵大__, 佐藤寛之, "オフィスビル空調スケジュールの進化型多目的最適化に関する検討", 進化計算シンポジウム2018講演論文集, pp. 184-191, 2018. [(学会URL)](http://www.jpnsec.org/symposium201803.html)
@@ -173,4 +184,4 @@ __Embedded System Engineer__ (part-time), Sleep System Laboratory
 
 <!-- ### Footer
 
-Last updated: 2020/11/12 -->
+Last updated: 2020/12/20 -->
