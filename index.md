@@ -24,14 +24,13 @@ Yoshihiro Ohta received his B.E., M.E. and Ph.D. from the University of Electro-
 * Simulation and control of air conditioning system operation  
   空調システムのシミュレーションおよび制御
 
-### Past Research Themes and Development Projects
+### Past Research Themes and Development Projects 過去の研究テーマ・開発プロジェクト
 * Robust digital control for switching power converters  
   DC-DCコンバータやPFCコンバータなどのスイッチング電源のロバストディジタル制御
 * Diversity antenna system using parasitic elements  
   無給電素子を用いた指向性切り替えによるダイバーシティアンテナシステムの開発
 * Measurement system of sleep depth in the unrestrained condition  
   無拘束状態における睡眠深度測定システムの開発
-
 
 ## Education 学歴
 
@@ -181,6 +180,21 @@ __電気通信大学第11回エレクトロニクスコンテスト 情報通信
 
 1. 樋口幸治, __太田恵大__, 松島正, 鈴木元章, "ロバストディジタル制御を適用した力率改善装置および電源装置", 2011/09/07出願,  (特開2013-059141)
 
+## Professional Societies 所属学会
+* The Japanese Society for Evolutionary Computation
+  進化計算学会
+* The Society of Instrument and Control Engineers (SICE)
+  計測自動制御学会
+* The Society of Heating, Air-Conditioning and Sanitary Engineers of Japan (SHASE)
+  空気調和・衛生工学会
+
+## Licenses and Certifications 資格
+* The 3rd Class Electric Chief Engineer
+  第三種電気主任技術者, 第57-E275号
+* Embedded Systems Specialist Examination
+  エンベデッドシステムスペシャリスト, 第ES-2015-04-00273号
+* Driver's License (1st grade)
+  普通自動車免許（第一種）
 
 <!-- ### Footer
 
