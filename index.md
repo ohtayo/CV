@@ -14,11 +14,11 @@ Researcher, Engineer
 </div>
 
 ## Biography
-Yoshihiro Ohta received his B.E., M.E. and Ph.D. from the University of Electro-Communications, Japan, in 2010, 2012 and 2020 respectively. He has been a researcher at Mitsubishi Electric Corporation, Japan since 2012. He was a system engineer at Mitsubishi Electric Building Techno-Service Co., Ltd., Tokyo, Japan in 2017-2019. His research interests include evolutionary multi-objective optimization, air-conditioning system, control engineering and building automation system.
+Yoshihiro Ohta received his B.E., M.E. and Ph.D. from the University of Electro-Communications, Japan, in 2010, 2012 and 2020 respectively. He has been a researcher at Mitsubishi Electric Corporation, Japan since 2012. He was a system engineer at Mitsubishi Electric Building Techno-Service Co., Ltd., Tokyo, Japan in 2017-2019. He received a Best Paper Award from Transaction of the Japanese Society for Evolutionary Computation in 2020. His research interests include evolutionary multi-objective optimization, air-conditioning system, control engineering and building automation system. He is a member of the Japanese Society for Evolutionary Computation, SICE and SHASE.
 
 ## Research interests 研究テーマ
 * Evolutionary multi-objective optimization and its application  
-  進化型多目的最適化と主に空調システムを対象とした実問題応用
+  進化型多目的最適化と実問題応用
 * Thermal comfort evaluation of air-conditioning system  
   空調システムの快適性評価
 * Simulation and control of air conditioning system operation  
@@ -38,7 +38,7 @@ Yoshihiro Ohta received his B.E., M.E. and Ph.D. from the University of Electro-
 __Ph.D., Graduate School of Informatics and Engineering, The University of Electro-Communications__  
 __博士（工学）, 電気通信大学大学院 情報理工学研究科 情報学専攻__  
 Ph.D. thesis: Evolutionary Multi-objective Optimization of Air-conditioning Schedule in Office Building  
-博士論文： オフィスビルにおける空調設定スケジュールの進化型多目的最適化 [(DOI)](http://doi.org/10.18952/00009619/)
+博士論文： オフィスビルにおける空調設定スケジュールの進化型多目的最適化 [(DOI)](http://doi.org/10.18952/00009619)
 
 `2010-2012`
 __Master of Engineering, Graduate School of Informatics and Engineering, The University of Electro-Communications__  
@@ -59,12 +59,15 @@ Graduation thesis: A Study on Beam Switching Antenna System with Parasitic Eleme
 卒業論文: 無給電素子を用いた指向性切替アンテナシステムの研究
 
 ## Work Experience 職歴
+`2020.9-now`
+__Head Researcher__, Mitsubishi Electric Corporation  
+三菱電機株式会社　情報技術総合研究所　主席研究員
 
 `2017.8-2019.7`
 __System Engineer__ (temporary assignment), Mitsubishi Electric Building Techno-Service, Co., Ltd.  
 三菱電機ビルテクノサービス株式会社　ファシリティ事業本部　エンジニアリング統括部(出向)
 
-`2012.4-now`
+`2012.4-2020.9`
 __Researcher__, Mitsubishi Electric Corporation  
 三菱電機株式会社　情報技術総合研究所　研究員
 
@@ -73,9 +76,21 @@ __Embedded System Engineer__ (part-time), Sleep System Laboratory
 株式会社スリープシステム研究所　アルバイト
 
 ## Awards　受賞歴
+`2021.6.10`
+__Award of Corporate Research and Development Group, Mitsubishi Electric Corporation__
+__三菱電機株式会社 開発本部長表彰__
+
 `2020.12.20`
 __Best Paper Award of the Japanese Society for Evolutionary Computation 2020__  
 __進化計算学会 2020年度論文賞__ 
+
+`2017.6.9`
+__Award of Integrated Design Center, Mitsubishi Electric Corporation__
+__三菱電機株式会社 デザイン研究所 所長表彰__
+
+`2016.6.10`
+__Award of Information and Technology R&D Center, Mitsubishi Electric Corporation__
+__三菱電機株式会社 情報技術総合研究所 所長表彰__
 
 `2008.11.23`
 __Award of Department of Information and Communication Engineering and Best Poster Award at the 11th UEC Electronics Contest__  
@@ -123,6 +138,9 @@ __電気通信大学第11回エレクトロニクスコンテスト 情報通信
 
 
 ### Domestic Conference Papers 国内学会発表
+1. 武田航平, 川野裕希, __太田恵大__, 石川潤, "リカレントニューラルネットワークを用いた消費電力推定　― 外挿性能
+の改善に向けて ―", 空気調和・衛生工学会大会 学術講演論文集, 2021. [(学会URL)](http://www.shasej.org/taikai/2021fukushima/taikai-menu.html)
+
 1. __太田恵大__, 佐藤寛之, "多目的空調設定スケジュール最適化問題における局所的な多峰性に関する考察", 進化計算シンポジウム2020講演論文集, pp. 145-150, 2020. [(学会URL)](http://www.jpnsec.org/symposium202003.html)
 
 1.  __太田恵大__, 佐藤寛之, "多目的進化計算によるオフィスビルの空調設定スケジュールの最適化 -数理モデルからシミュレーションベース，ロバスト，サロゲート最適化への展開-", 第17回進化計算学会研究会講演論文集, pp. 194-204, 2020. [(学会URL)](http://www.jpnsec.org/symposium202001.html)
@@ -189,13 +207,16 @@ __電気通信大学第11回エレクトロニクスコンテスト 情報通信
   空気調和・衛生工学会
 
 ## Licenses and Certifications 資格
+* The 2nd Class Electric Works Specialist
+  第二種電気工事士, 神奈川県 第136818号
 * The 3rd Class Electric Chief Engineer
   第三種電気主任技術者, 第57-E275号
 * Embedded Systems Specialist Examination
   エンベデッドシステムスペシャリスト, 第ES-2015-04-00273号
 * Driver's License (1st grade)
   普通自動車免許（第一種）
+* TOEIC 725 (2019)
 
 <!-- ### Footer
 
-Last updated: 2020/12/20 -->
+Last updated: 2021/9/22 -->
