@@ -77,20 +77,20 @@ __Embedded System Engineer__ (part-time), Sleep System Laboratory
 
 ## Awards　受賞歴
 `2021.6.10`
-__Award of Corporate Research and Development Group, Mitsubishi Electric Corporation__
-__三菱電機株式会社 開発本部長表彰__
+__Award of Corporate Research and Development Group, Mitsubishi Electric Corporation__  
+__三菱電機株式会社 開発本部長表彰__  
 
 `2020.12.20`
 __Best Paper Award of the Japanese Society for Evolutionary Computation 2020__  
 __進化計算学会 2020年度論文賞__ 
 
 `2017.6.9`
-__Award of Integrated Design Center, Mitsubishi Electric Corporation__
-__三菱電機株式会社 デザイン研究所 所長表彰__
+__Award of Integrated Design Center, Mitsubishi Electric Corporation__  
+__三菱電機株式会社 デザイン研究所 所長表彰__  
 
 `2016.6.10`
-__Award of Information and Technology R&D Center, Mitsubishi Electric Corporation__
-__三菱電機株式会社 情報技術総合研究所 所長表彰__
+__Award of Information and Technology R&D Center, Mitsubishi Electric Corporation__  
+__三菱電機株式会社 情報技術総合研究所 所長表彰__  
 
 `2008.11.23`
 __Award of Department of Information and Communication Engineering and Best Poster Award at the 11th UEC Electronics Contest__  
@@ -199,23 +199,23 @@ __電気通信大学第11回エレクトロニクスコンテスト 情報通信
 1. 樋口幸治, __太田恵大__, 松島正, 鈴木元章, "ロバストディジタル制御を適用した力率改善装置および電源装置", 2011/09/07出願,  (特開2013-059141)
 
 ## Professional Societies 所属学会
-* The Japanese Society for Evolutionary Computation
+* The Japanese Society for Evolutionary Computation  
   進化計算学会
-* The Society of Instrument and Control Engineers (SICE)
+* The Society of Instrument and Control Engineers (SICE)  
   計測自動制御学会
-* The Society of Heating, Air-Conditioning and Sanitary Engineers of Japan (SHASE)
+* The Society of Heating, Air-Conditioning and Sanitary Engineers of Japan (SHASE)  
   空気調和・衛生工学会
 
 ## Licenses and Certifications 資格
-* The 2nd Class Electric Works Specialist
+* The 2nd Class Electric Works Specialist  
   第二種電気工事士, 神奈川県 第136818号
-* The 3rd Class Electric Chief Engineer
+* The 3rd Class Electric Chief Engineer  
   第三種電気主任技術者, 第57-E275号
-* Embedded Systems Specialist Examination
+* Embedded Systems Specialist Examination  
   エンベデッドシステムスペシャリスト, 第ES-2015-04-00273号
-* Driver's License (1st grade)
+* Driver's License (1st grade)  
   普通自動車免許（第一種）
-* TOEIC 725 (2019)
+* TOEIC 725 (2019)  
 
 <!-- ### Footer
 
