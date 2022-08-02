@@ -114,6 +114,8 @@ __電気通信大学第11回エレクトロニクスコンテスト 情報通信
 
 
 ### Refereed International Conference Papers 査読付国際会議論文
+1. Kohei Fukuhara, Ryo Kumagai, Fukawa Yuta, Shinichi Tanabe, Hiroki Kawano, __Yoshihiro Ohta__, Hiroyuki Sato, "Digital Twin Based Evolutionary Building Facility Control Optimization", 2022 IEEE World Congress on Computational Intelligence, 2022. (to appear)
+
 1. __Yoshihiro Ohta__, Takafumi Sasakawa, Hiroyuki Sato, "Evolutionary Air-Conditioning optimization Using an LSTM-Based Surrogate Evaluator", 2020 IEEE Congress on Evolutionary Computation (CEC), pp. 1-8, 2020. [(DOI)](https://doi.org/10.1109/CEC48606.2020.9185769)
 
 1. __Yoshihiro Ohta__, Hiroyuki Sato, "Evolutionary Optimization of Air-conditioning Schedule Robust for Temperature Forecast Errors", 2019 IEEE Congress onEvolutionary Computation (CEC), pp. 2482-2489, 2019. [(DOI)](https://doi.org/10.1109/CEC.2019.8789972)
@@ -138,6 +140,12 @@ __電気通信大学第11回エレクトロニクスコンテスト 情報通信
 
 
 ### Domestic Conference Papers 国内学会発表
+1. 魏誠浩, 大岡龍三, 周琦, 田村夏美, __太田恵大__, 金子洋介, "人工知能を用いた室内環境の予測・制御に関する研究　その1　冷暖房期における空調実験室温度分布の実測実験", 日本建築学会大会学術講演梗概集, 環境工学, pp. 1407-1408, 2022. (to appear) [(学会URL)](http://taikai2022.aij.or.jp)
+
+1. 周琦, 大岡龍三, 魏誠浩, 田村夏美, __太田恵大__, 金子洋介, "人工知能を用いた室内環境の予測・制御に関する研究　その2　CFDを用いた空調吹出風量・風向・温度変更の上下温度に与える影響の分析", 日本建築学会大会学術講演梗概集, 環境工学, pp. 1409-1410, 2022. (to appear) [(学会URL)](http://taikai2022.aij.or.jp)
+
+1. 福原洸平，熊谷涼，川野裕希，__太田恵大__，佐藤寛之，"デジタルツインを用いたビル設備制御設計の制約付き多数目的最適化", 進化計算シンポジウム2021, pp.141–148, 2021. [(学会URL)](http://www.jpnsec.org/symposium202103.html)
+
 1. 武田航平, 川野裕希, __太田恵大__, 石川潤, "リカレントニューラルネットワークを用いた消費電力推定　― 外挿性能
 の改善に向けて ―", 空気調和・衛生工学会大会 学術講演論文集, 2021. [(学会URL)](http://www.shasej.org/taikai/2021fukushima/taikai-menu.html)
 
@@ -169,10 +177,14 @@ __電気通信大学第11回エレクトロニクスコンテスト 情報通信
 1. __Yoshihiro Ohta__, Kohji Higuchi, "Approximate 2-Degree-Of-Freedom Digital Control for a Boost DC-DC Converter", IEICE Electronics Express, Vol. 9, No. 6, pp. 496-501, 2012. [(DOI)](https://doi.org/10.1587/elex.9.496)
 
 
-### Patents 特許
-1. 富田智子, 安田浩之, 中島義統, 佐藤健二, 長廣憲幸, 冨澤一生, __太田恵大__, 田村夏美, 飯田隆義, "快適度表示装置", 2018/05/15出願,  (特開2019-20109, WO2019/013014)
+### Patents 特許/意匠
+1. 富田智子, 安田浩之, 中島義統, 佐藤健二, 長廣憲幸, 冨澤一生, __太田恵大__, 田村夏美, 飯田隆義, "快適度表示装置", 2018/05/15出願,  (特開2019-20109, WO2019/013014, 欧州特許EP3633280号)
 
 1. __太田恵大__, 浮穴朋興, "運転制御装置，空気調和システム，運転制御方法および運転制御プログラム", 2017/07/05出願, 2019/10/25登録 (WO2019/008698, 特許第6605181号)
+
+1. 冨澤一生, 妻鹿利宏, 大谷晋一郎, __太田恵大__, "機器保守支援システム、機器保守支援装置、及び、機器保守支援プログラム", 2017/6/28出願, (WO2019/003331)
+
+1. __太田恵大__, 田村夏美, 佐藤健二, 富田智子, 長廣憲幸, 冨澤一生, "室内環境情報表示機能付き電子計算機", 2017/6/12出願, (意匠登録第1597872号, 第1597873号)
 
 1. 佐藤健二, 妻鹿利宏, 南田宗佑, 川崎仁, __太田恵大__, 浮穴朋興, "ソフトウェア更新管理システム及びプログラム", 2017/03/09出願,  (特開2018-147413)
 
@@ -198,6 +210,12 @@ __電気通信大学第11回エレクトロニクスコンテスト 情報通信
 
 1. 樋口幸治, __太田恵大__, 松島正, 鈴木元章, "ロバストディジタル制御を適用した力率改善装置および電源装置", 2011/09/07出願,  (特開2013-059141)
 
+### その他（講演，雑誌掲載）
+1. "ZEB (net Zero Energy Building)実現を，舞台裏で支えた技術を探る。"，日経トレンディ2022年3月号，pp. 14-17，2022. [(URL)](https://www.mitsubishielectric.co.jp/corporate/special/hello-ai/pdf/202203_maisart_nikkei.pdf)
+
+1. __太田恵大__, "企業の研究開発における大学での学習成果の活用", 東京都立大学, 情報システム実験II, 2022/7/15
+
+
 ## Professional Societies 所属学会
 * The Japanese Society for Evolutionary Computation  
   進化計算学会
@@ -219,4 +237,4 @@ __電気通信大学第11回エレクトロニクスコンテスト 情報通信
 
 <!-- ### Footer
 
-Last updated: 2021/9/22 -->
+Last updated: 2022/8/2 -->
