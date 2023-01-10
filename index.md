@@ -119,6 +119,8 @@ __電気通信大学第11回エレクトロニクスコンテスト 情報通信
 
 
 ### Refereed International Conference Papers 査読付国際会議論文
+1. Naru Okumura, __Yoshihiro Ohta__, Hiroyuki Sato, "Solution Archive and Its Re-use in Evolutionary Many-objective Facility Control Optimization", 2022 Joint 12th International Conference on Soft Computing and Intelligent Systems and 23rd International Symposium on Advanced Intelligent Systems (SCIS&ISIS2022), pp. 1-7, 2022. [(DOI)](http://dx.doi.org/10.1109/SCISISIS55246.2022.10002109)
+
 1. Kohei Fukuhara, Ryo Kumagai, Fukawa Yuta, Shinichi Tanabe, Hiroki Kawano, __Yoshihiro Ohta__, Hiroyuki Sato, "Digital Twin Based Evolutionary Building Facility Control Optimization", 2022 IEEE Congress on Evolutionary Computation (CEC), pp. 1-8, 2022. [(DOI)](https://doi.org/10.1109/CEC55065.2022.9870207)
 
 1. __Yoshihiro Ohta__, Takafumi Sasakawa, Hiroyuki Sato, "Evolutionary Air-Conditioning optimization Using an LSTM-Based Surrogate Evaluator", 2020 IEEE Congress on Evolutionary Computation (CEC), pp. 1-8, 2020. [(DOI)](https://doi.org/10.1109/CEC48606.2020.9185769)
@@ -145,11 +147,13 @@ __電気通信大学第11回エレクトロニクスコンテスト 情報通信
 
 
 ### Domestic Conference Papers 国内学会発表
-1. 魏誠浩, 大岡龍三, 周琦, 田村夏美, __太田恵大__, 金子洋介, "人工知能を用いた室内環境の予測・制御に関する研究　その1　冷暖房期における空調実験室温度分布の実測実験", 日本建築学会大会学術講演梗概集, 環境工学, pp. 1407-1408, 2022. (to appear) [(学会URL)](http://taikai2022.aij.or.jp)
+1. 奥村成, __太田恵大__, 佐藤寛之, "多数目的進化計算によるオフィスビルの制御最適化における解集合のアーカイブと再活用", 第30回インテリジェント・システム・シンポジウム(FAN2022), 計測自動制御学会 システム・情報部門, pp. 300–304, 2022. [(学会URL)](https://sites.google.com/view/fan2022/)
 
-1. 周琦, 大岡龍三, 魏誠浩, 田村夏美, __太田恵大__, 金子洋介, "人工知能を用いた室内環境の予測・制御に関する研究　その2　CFDを用いた空調吹出風量・風向・温度変更の上下温度に与える影響の分析", 日本建築学会大会学術講演梗概集, 環境工学, pp. 1409-1410, 2022. (to appear) [(学会URL)](http://taikai2022.aij.or.jp)
+1. 魏誠浩, 大岡龍三, 周琦, 田村夏美, __太田恵大__, 金子洋介, "人工知能を用いた室内環境の予測・制御に関する研究　その1　冷暖房期における空調実験室温度分布の実測実験", 日本建築学会大会学術講演梗概集, 環境工学, pp. 1407-1408, 2022. [(学会URL)](http://taikai2022.aij.or.jp)
 
-1. 福原洸平，熊谷涼，川野裕希，__太田恵大__，佐藤寛之，"デジタルツインを用いたビル設備制御設計の制約付き多数目的最適化", 進化計算シンポジウム2021, pp.141–148, 2021. [(学会URL)](http://www.jpnsec.org/symposium202103.html)
+1. 周琦, 大岡龍三, 魏誠浩, 田村夏美, __太田恵大__, 金子洋介, "人工知能を用いた室内環境の予測・制御に関する研究　その2　CFDを用いた空調吹出風量・風向・温度変更の上下温度に与える影響の分析", 日本建築学会大会学術講演梗概集, 環境工学, pp. 1409-1410, 2022. [(学会URL)](http://taikai2022.aij.or.jp)
+
+1. 福原洸平，熊谷涼，川野裕希，__太田恵大__，佐藤寛之，"デジタルツインを用いたビル設備制御設計の制約付き多数目的最適化", 進化計算シンポジウム2021, pp. 141–148, 2021. [(学会URL)](http://www.jpnsec.org/symposium202103.html)
 
 1. 武田航平, 川野裕希, __太田恵大__, 石川潤, "リカレントニューラルネットワークを用いた消費電力推定　― 外挿性能
 の改善に向けて ―", 空気調和・衛生工学会大会 学術講演論文集, 2021. [(学会URL)](http://www.shasej.org/taikai/2021fukushima/taikai-menu.html)
@@ -242,4 +246,4 @@ __電気通信大学第11回エレクトロニクスコンテスト 情報通信
 
 <!-- ### Footer
 
-Last updated: 2022/8/2 -->
+Last updated: 2023/1/9 -->
