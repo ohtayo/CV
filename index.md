@@ -13,7 +13,8 @@ Researcher, Engineer
 | <a href="https://www.linkedin.com/in/yoshihiro-ohta-659259124/">Linkedin</a>
 </div>
 
-## Biography
+## Biography 略歴
+2010年電気通信大学電気通信学部電子工学科卒業．2012年同大学大学院情報理工学研究科知能機械工学専攻博士前期課程修了．2012年三菱電機（株）入社，2017～2019年三菱電機ビルテクノサービス（株）（現三菱電機ビルソリューションズ（株））出向．2020年電気通信大学大学院情報理工学研究科情報学専攻博士後期課程修了．同年三菱電機（株）情報技術総合研究所 主席研究員．博士（工学）．進化計算，多目的最適化，ビル設備設計・施工および監視・制御に関する研究に従事．2020年進化計算学会論文賞を受賞．進化計算学会，計測自動制御学会，空気調和・衛生工学会，各会員．
 Yoshihiro Ohta received his B.E., M.E. and Ph.D. from the University of Electro-Communications, Japan, in 2010, 2012 and 2020 respectively. He has been a researcher at Mitsubishi Electric Corporation, Japan since 2012. He was a system engineer at Mitsubishi Electric Building Techno-Service Co., Ltd., Tokyo, Japan in 2017-2019. He received a Best Paper Award from Transaction of the Japanese Society for Evolutionary Computation in 2020. His research interests include evolutionary multi-objective optimization, air-conditioning system, control engineering and building automation system. He is a member of the Japanese Society for Evolutionary Computation, SICE and SHASE.
 
 ## Research interests 研究テーマ
@@ -84,6 +85,10 @@ __三菱電機株式会社 開発本部長表彰__
 __Best Paper Award of the Japanese Society for Evolutionary Computation 2020__  
 __進化計算学会 2020年度論文賞__ 
 
+`2017.11.10`
+__Invention Award of Information and Technology R&D Center, Mitsubishi Electric Corporation__  
+__三菱電機株式会社 情報技術総合研究所 優秀発明賞__  
+
 `2017.6.9`
 __Award of Integrated Design Center, Mitsubishi Electric Corporation__  
 __三菱電機株式会社 デザイン研究所 所長表彰__  
@@ -114,7 +119,7 @@ __電気通信大学第11回エレクトロニクスコンテスト 情報通信
 
 
 ### Refereed International Conference Papers 査読付国際会議論文
-1. Kohei Fukuhara, Ryo Kumagai, Fukawa Yuta, Shinichi Tanabe, Hiroki Kawano, __Yoshihiro Ohta__, Hiroyuki Sato, "Digital Twin Based Evolutionary Building Facility Control Optimization", 2022 IEEE World Congress on Computational Intelligence, 2022. (to appear)
+1. Kohei Fukuhara, Ryo Kumagai, Fukawa Yuta, Shinichi Tanabe, Hiroki Kawano, __Yoshihiro Ohta__, Hiroyuki Sato, "Digital Twin Based Evolutionary Building Facility Control Optimization", 2022 IEEE Congress on Evolutionary Computation (CEC), pp. 1-8, 2022. [(DOI)](https://doi.org/10.1109/CEC55065.2022.9870207)
 
 1. __Yoshihiro Ohta__, Takafumi Sasakawa, Hiroyuki Sato, "Evolutionary Air-Conditioning optimization Using an LSTM-Based Surrogate Evaluator", 2020 IEEE Congress on Evolutionary Computation (CEC), pp. 1-8, 2020. [(DOI)](https://doi.org/10.1109/CEC48606.2020.9185769)
 
