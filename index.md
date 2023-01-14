@@ -14,7 +14,7 @@ Researcher, Engineer
 </div>
 
 ## Biography 略歴
-2010年電気通信大学電気通信学部電子工学科卒業．2012年同大学大学院情報理工学研究科知能機械工学専攻博士前期課程修了．2012年三菱電機（株）入社，2017～2019年三菱電機ビルテクノサービス（株）（現三菱電機ビルソリューションズ（株））出向．2020年電気通信大学大学院情報理工学研究科情報学専攻博士後期課程修了．同年三菱電機（株）情報技術総合研究所 主席研究員．博士（工学）．進化計算，多目的最適化，ビル設備設計・施工および監視・制御に関する研究に従事．2020年進化計算学会論文賞を受賞．進化計算学会，計測自動制御学会，空気調和・衛生工学会，各会員．
+2010年電気通信大学電気通信学部電子工学科卒業．2012年同大学大学院情報理工学研究科知能機械工学専攻博士前期課程修了．2012年三菱電機（株）入社，2017～2019年三菱電機ビルテクノサービス（株）（現三菱電機ビルソリューションズ（株））出向．2020年電気通信大学大学院情報理工学研究科情報学専攻博士後期課程修了．同年三菱電機（株）情報技術総合研究所 主席研究員．博士（工学）．進化計算，多目的最適化，ビル設備設計・施工および監視・制御に関する研究に従事．2020年進化計算学会論文賞を受賞．進化計算学会，計測自動制御学会，空気調和・衛生工学会，各会員．  
 Yoshihiro Ohta received his B.E., M.E. and Ph.D. from the University of Electro-Communications, Japan, in 2010, 2012 and 2020 respectively. He has been a researcher at Mitsubishi Electric Corporation, Japan since 2012. He was a system engineer at Mitsubishi Electric Building Techno-Service Co., Ltd., Tokyo, Japan in 2017-2019. He received a Best Paper Award from Transaction of the Japanese Society for Evolutionary Computation in 2020. His research interests include evolutionary multi-objective optimization, air-conditioning system, control engineering and building automation system. He is a member of the Japanese Society for Evolutionary Computation, SICE and SHASE.
 
 ## Research interests 研究テーマ
@@ -72,7 +72,7 @@ __System Engineer__ (temporary assignment), Mitsubishi Electric Building Techno-
 __Researcher__, Mitsubishi Electric Corporation  
 三菱電機株式会社　情報技術総合研究所　研究員
 
-`2011.4-2012.3`
+`2009.4-2012.3`
 __Embedded System Engineer__ (part-time), Sleep System Laboratory  
 株式会社スリープシステム研究所　アルバイト
 
